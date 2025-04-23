@@ -34,7 +34,7 @@ export GOOGLE_CREDENTIALS_JSON='{"type": "service_account", ...}'
 streamlit run app.py
 ```
 
-Access the app at http://localhost:8501
+Access the app at (https://ahsin6-mood-tracker-app-lyj8sk.streamlit.app/)
 
 ## Usage
 
